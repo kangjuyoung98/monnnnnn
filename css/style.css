@@ -1,0 +1,49 @@
+.white {width: 50%;
+        height: 100%;
+        background-color: white;
+        position: relative;
+       margin: auto;}
+
+ .red  {width: 72%;
+        height: 72%;
+        background-color: red;
+        position: absolute;
+        left: 28%;}
+.yellow {width: 10%;
+        height: 12%;
+        background-color: yellow;
+        position: absolute;
+        bottom: 0px; right: 0px;}
+.blue {width: 28%;
+        height: 28%;
+        background-color: blue;
+        position: absolute;
+        top: 72%; right: 72%; }
+.black1 {width: 100%;
+        height: 20px;
+        background-color: black;
+        position: absolute;
+        bottom: 27%}
+.black2 {width: 10%;
+         height: 25px;
+         background-color: black;
+         position: absolute;
+         bottom: 10%;
+         right: 0px;}
+.black3 {width: 20px;
+         height: 28%;
+         background-color: black;
+         position: absolute;
+         bottom: 0px;
+         right: 10%;}
+.black4 {width: 28%;
+        height: 35px;
+        background-color: black;
+        position: absolute;
+        top:32%;}
+ .black5 {width: 20px;
+        height: 100%;
+        background-color: black;
+        position: absolute;
+        left: 25%;}
+ 
